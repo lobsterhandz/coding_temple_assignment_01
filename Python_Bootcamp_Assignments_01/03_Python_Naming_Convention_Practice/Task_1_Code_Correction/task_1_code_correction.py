@@ -1,1 +1,4 @@
-# Python script
+PI_VALUE = 3.14
+user_age = 25
+USER_LOCATION = "New York"
+MAX_LIMIT = 1000
